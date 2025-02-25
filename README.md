@@ -1,6 +1,6 @@
-# 🔫 Gun Detection Using YOLO
+# 🔫 Weapon Detection Using YOLO
 
-This project implements a **gun detection system** using **YOLO (You Only Look Once)** for object detection. It processes a video, detects weapons in each frame, and saves the annotated video.
+This project implements a **weapon detection system** using **YOLO (You Only Look Once)** for object detection. It processes a video, detects weapons in each frame, and saves the annotated video.
 
 ---
 
